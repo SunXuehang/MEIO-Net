@@ -1,5 +1,7 @@
 # MEIO-Net
-Code for paper: "MEIO-Net: A Motion-Aware Early-Exit Inertial Odometry Network for Efficient Pedestrian Dead Reckoning (PDR)"
+"MEIO-Net: A Motion-Aware Early-Exit Inertial Odometry Network for Efficient Pedestrian Dead Reckoning (PDR)"
+
+Dataset is publicly available at: https://zenodo.org/records/17072633
 
 ## Prerequisites
 
