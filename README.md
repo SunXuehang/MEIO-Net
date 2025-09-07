@@ -9,7 +9,6 @@ pip install torch einops numpy
 ```
 
 ## Usage
-The LLIO contained in the model_twolayer.py, and a unit test for illustration input and output are provided in this file.
 ```python
 if __name__ == "__main__":
     data_para = {
